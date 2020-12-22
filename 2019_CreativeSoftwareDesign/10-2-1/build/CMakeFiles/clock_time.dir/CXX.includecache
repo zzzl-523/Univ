@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock.cpp
+iostream
+-
+clock.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock.h
+clock_time.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock_time.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock_time.cpp
+iostream
+-
+iomanip
+-
+clock_time.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock_time.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock_time.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/main.cpp
+iostream
+-
+vector
+-
+clock_time.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock_time.h
+clock.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/10-2-1/clock.h
+

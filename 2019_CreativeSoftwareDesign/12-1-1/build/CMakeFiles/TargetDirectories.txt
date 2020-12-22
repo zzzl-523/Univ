@@ -1,0 +1,3 @@
+/home/zzigang/2019_ITE1015_2019060164/12-1-1/build/CMakeFiles/rebuild_cache.dir
+/home/zzigang/2019_ITE1015_2019060164/12-1-1/build/CMakeFiles/swap.dir
+/home/zzigang/2019_ITE1015_2019060164/12-1-1/build/CMakeFiles/edit_cache.dir

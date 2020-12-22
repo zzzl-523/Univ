@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/6-2-2/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+minimal_fighter.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/6-2-2/minimal_fighter.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/6-2-2/minimal_fighter.cpp
+iostream
+-
+minimal_fighter.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/6-2-2/minimal_fighter.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/6-2-2/minimal_fighter.h
+iostream
+-
+

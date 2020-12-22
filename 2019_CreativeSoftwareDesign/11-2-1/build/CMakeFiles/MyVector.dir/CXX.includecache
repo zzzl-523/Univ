@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/11-2-1/main.cpp
+iostream
+-
+my_vector.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/11-2-1/my_vector.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/11-2-1/my_vector.cpp
+iostream
+-
+my_vector.h
+/home/zzigang/Documents/2019_ITE1015_2019060164/11-2-1/my_vector.h
+
+/home/zzigang/Documents/2019_ITE1015_2019060164/11-2-1/my_vector.h
+sstream
+-
+
